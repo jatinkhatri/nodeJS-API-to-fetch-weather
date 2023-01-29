@@ -1,0 +1,131 @@
+2023-01-27T11:56:03.765Z [Process] error: Error in weather API:Error: getaddrinfo ENOTFOUND 5api.openweathermap.org
+2023-01-27T11:57:28.438Z [Process] error: Error in weather API:Error: getaddrinfo ENOTFOUND 5api.openweathermap.org
+2023-01-27T12:00:45.740Z [Process] error: Error in weather API:Error: getaddrinfo ENOTFOUND 5api.openweathermap.org
+2023-01-27T12:00:45.741Z [Process] error: getaddrinfo ENOTFOUND 5api.openweathermap.org
+2023-01-27T12:01:28.177Z [Process] error: Error in weather API:Error: getaddrinfo ENOTFOUND 5api.openweathermap.org
+2023-01-27T12:01:28.178Z [Process] error: getaddrinfo ENOTFOUND 5api.openweathermap.org
+2023-01-27T12:01:28.179Z [Process] error: Request ErrorError: getaddrinfo ENOTFOUND 5api.openweathermap.org
+2023-01-28T12:34:02.611Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T12:51:14.342Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T12:51:15.062Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T12:51:15.063Z [Process] error: Request failed with status code 400
+2023-01-28T12:51:41.728Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T12:51:42.491Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T12:51:42.491Z [Process] error: Request failed with status code 400
+2023-01-28T12:52:21.287Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T12:52:22.141Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T12:52:22.142Z [Process] error: Request failed with status code 400
+2023-01-28T12:52:43.045Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T12:52:43.886Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T12:52:43.887Z [Process] error: Request failed with status code 400
+2023-01-28T12:53:33.376Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T12:53:35.149Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T12:53:35.150Z [Process] error: Request failed with status code 400
+2023-01-28T13:03:45.604Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:03:46.259Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:03:46.259Z [Process] error: Request failed with status code 400
+2023-01-28T13:04:06.329Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:04:06.953Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:04:06.953Z [Process] error: Request failed with status code 400
+2023-01-28T13:06:36.586Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:06:37.253Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:06:37.253Z [Process] error: Request failed with status code 400
+2023-01-28T13:18:08.672Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:18:09.079Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:18:09.080Z [Process] error: Request failed with status code 400
+2023-01-28T13:19:12.447Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:19:12.860Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:19:12.861Z [Process] error: Request failed with status code 400
+2023-01-28T13:38:41.569Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:38:41.989Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:38:41.990Z [Process] error: Request failed with status code 400
+2023-01-28T13:39:59.867Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:40:00.307Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:40:00.308Z [Process] error: Request failed with status code 400
+2023-01-28T13:40:50.692Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:40:51.082Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:40:51.083Z [Process] error: Request failed with status code 400
+2023-01-28T13:41:22.503Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:41:22.904Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:41:22.904Z [Process] error: Request failed with status code 400
+2023-01-28T13:42:57.058Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:42:57.641Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:42:57.641Z [Process] error: Request failed with status code 400
+2023-01-28T13:43:57.329Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:43:57.705Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:43:57.705Z [Process] error: Request failed with status code 400
+2023-01-28T13:44:40.870Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:44:41.268Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:44:41.269Z [Process] error: Request failed with status code 400
+2023-01-28T13:45:20.753Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:45:21.248Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:45:21.248Z [Process] error: Request failed with status code 400
+2023-01-28T13:47:31.078Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:47:31.475Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:47:31.476Z [Process] error: Request failed with status code 400
+2023-01-28T13:48:50.382Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:48:50.777Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:48:50.777Z [Process] error: Request failed with status code 400
+2023-01-28T13:48:56.972Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:50:05.537Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:50:06.021Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:50:06.021Z [Process] error: Request failed with status code 400
+2023-01-28T13:51:59.951Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:52:00.378Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:52:00.378Z [Process] error: Request failed with status code 400
+2023-01-28T13:54:20.018Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:54:20.455Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:54:20.455Z [Process] error: Request failed with status code 400
+2023-01-28T13:54:48.396Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:54:48.800Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:54:48.801Z [Process] error: Request failed with status code 400
+2023-01-28T13:55:14.139Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:55:14.526Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:55:14.526Z [Process] error: Request failed with status code 400
+2023-01-28T13:55:49.754Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:55:50.246Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:55:50.246Z [Process] error: Request failed with status code 400
+2023-01-28T13:56:32.196Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:56:32.576Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:56:32.577Z [Process] error: Request failed with status code 400
+2023-01-28T13:58:56.868Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:58:57.245Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:58:57.245Z [Process] error: Request failed with status code 400
+2023-01-28T14:00:29.313Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:00:29.810Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T14:00:29.810Z [Process] error: Request failed with status code 400
+2023-01-28T14:18:46.909Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:18:47.294Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T14:18:47.295Z [Process] error: Request failed with status code 400
+2023-01-28T14:26:31.815Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:26:32.209Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T14:26:32.210Z [Process] error: Request failed with status code 400
+2023-01-28T14:27:26.193Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:27:26.585Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T14:27:26.585Z [Process] error: Request failed with status code 400
+2023-01-28T14:28:10.385Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:28:10.790Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T14:28:10.791Z [Process] error: Request failed with status code 400
+2023-01-28T14:30:19.640Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:30:20.017Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T14:30:20.018Z [Process] error: Request failed with status code 400
+2023-01-28T14:30:40.468Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:30:49.147Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:30:49.666Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T14:30:49.667Z [Process] error: Request failed with status code 400
+2023-01-28T14:31:16.219Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:31:16.611Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T14:31:16.611Z [Process] error: Request failed with status code 400
+2023-01-28T14:34:21.490Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:34:21.894Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T14:34:21.894Z [Process] error: Request failed with status code 400
+2023-01-28T14:34:30.539Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:36:17.776Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:36:18.246Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T14:36:18.247Z [Process] error: Request failed with status code 400
+2023-01-28T15:01:03.064Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T15:01:03.459Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T15:01:03.459Z [Process] error: Request failed with status code 400
+2023-01-28T15:13:21.724Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T15:13:22.129Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T15:13:22.129Z [Process] error: Request failed with status code 400

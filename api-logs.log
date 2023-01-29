@@ -1,0 +1,1047 @@
+2023-01-27T11:53:30.884Z [Process] info: Server Running at 8000
+2023-01-27T11:53:35.848Z [Process] info: Init process
+2023-01-27T11:53:35.849Z [Process] info: Requested city exists in the DB
+2023-01-27T11:53:35.853Z [Process] info: Get city weather information from the DB
+2023-01-27T11:53:35.853Z [Process] info: Get weather information from the database and return to user
+2023-01-27T11:53:35.854Z [Process] info: Success user request
+2023-01-27T11:53:36.584Z [Process] info: Init process
+2023-01-27T11:53:36.585Z [Process] info: Requested city exists in the DB
+2023-01-27T11:53:36.591Z [Process] info: Get city weather information from the DB
+2023-01-27T11:53:36.593Z [Process] info: Get weather information from the database and return to user
+2023-01-27T11:53:36.593Z [Process] info: Success user request
+2023-01-27T11:56:00.019Z [Process] info: Server Running at 8000
+2023-01-27T11:56:03.538Z [Process] info: Init process
+2023-01-27T11:56:03.538Z [Process] info: Requested city exists in the DB
+2023-01-27T11:56:03.549Z [Process] info: Get city weather information from the DB
+2023-01-27T11:56:03.549Z [Process] info: Get weather information from the API and update in the database
+2023-01-27T11:56:03.765Z [Process] error: Error in weather API:Error: getaddrinfo ENOTFOUND 5api.openweathermap.org
+2023-01-27T11:57:23.007Z [Process] info: Server Running at 8000
+2023-01-27T11:57:28.299Z [Process] info: Init process
+2023-01-27T11:57:28.300Z [Process] info: Requested city exists in the DB
+2023-01-27T11:57:28.305Z [Process] info: Get city weather information from the DB
+2023-01-27T11:57:28.305Z [Process] info: Get weather information from the API and update in the database
+2023-01-27T11:57:28.438Z [Process] error: Error in weather API:Error: getaddrinfo ENOTFOUND 5api.openweathermap.org
+2023-01-27T12:00:30.613Z [Process] info: Server Running at 8000
+2023-01-27T12:00:38.449Z [Process] info: Server Running at 8000
+2023-01-27T12:00:45.621Z [Process] info: Init process
+2023-01-27T12:00:45.622Z [Process] info: Requested city exists in the DB
+2023-01-27T12:00:45.628Z [Process] info: Get city weather information from the DB
+2023-01-27T12:00:45.629Z [Process] info: Get weather information from the API and update in the database
+2023-01-27T12:00:45.740Z [Process] error: Error in weather API:Error: getaddrinfo ENOTFOUND 5api.openweathermap.org
+2023-01-27T12:00:45.741Z [Process] error: getaddrinfo ENOTFOUND 5api.openweathermap.org
+2023-01-27T12:01:24.283Z [Process] info: Server Running at 8000
+2023-01-27T12:01:28.033Z [Process] info: Init process
+2023-01-27T12:01:28.033Z [Process] info: Requested city exists in the DB
+2023-01-27T12:01:28.047Z [Process] info: Get city weather information from the DB
+2023-01-27T12:01:28.048Z [Process] info: Get weather information from the API and update in the database
+2023-01-27T12:01:28.177Z [Process] error: Error in weather API:Error: getaddrinfo ENOTFOUND 5api.openweathermap.org
+2023-01-27T12:01:28.178Z [Process] error: getaddrinfo ENOTFOUND 5api.openweathermap.org
+2023-01-27T12:01:28.179Z [Process] error: Request ErrorError: getaddrinfo ENOTFOUND 5api.openweathermap.org
+2023-01-27T12:01:42.123Z [Process] info: Server Running at 8000
+2023-01-27T12:01:45.481Z [Process] info: Init process
+2023-01-27T12:01:45.481Z [Process] info: Requested city exists in the DB
+2023-01-27T12:01:45.487Z [Process] info: Get city weather information from the DB
+2023-01-27T12:01:45.487Z [Process] info: Get weather information from the API and update in the database
+2023-01-27T12:01:46.082Z [Process] info: retruned data from weather API
+2023-01-27T12:01:46.170Z [Process] info: Success user request
+2023-01-27T12:34:15.971Z [Process] info: Server Running at 8000
+2023-01-27T12:34:19.336Z [Process] info: Server Running at 8000
+2023-01-28T12:31:33.500Z [Process] info: Server Running at 8000
+2023-01-28T12:32:29.508Z [Process] info: Server Running at 8000
+2023-01-28T12:33:26.859Z [Process] info: Server Running at 8000
+2023-01-28T12:33:55.961Z [Process] info: Server Running at 8000
+2023-01-28T12:34:02.137Z [Process] info: city name not found in the query params
+2023-01-28T12:34:02.610Z [Process] info: Init process
+2023-01-28T12:39:20.039Z [Process] info: Server Running at 8000
+2023-01-28T12:39:48.856Z [Process] info: Server Running at 8000
+2023-01-28T12:39:59.821Z [Process] info: Server Running at 8000
+2023-01-28T12:40:40.004Z [Process] info: Server Running at 8000
+2023-01-28T12:45:51.029Z [Process] info: Server Running at 8000
+2023-01-28T12:48:09.292Z [Process] info: Server Running at 8000
+2023-01-28T12:51:14.210Z [Process] info: Server Running at 8000
+2023-01-28T12:51:14.255Z [Process] info: city name not found in the query params
+2023-01-28T12:51:14.339Z [Process] info: Init process
+2023-01-28T12:51:14.340Z [Process] info: Requested city not found in the database
+2023-01-28T12:51:14.340Z [Process] info: Requested city exists in the DB
+2023-01-28T12:51:14.342Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T12:51:14.349Z [Process] info: Get city weather information from the DB
+2023-01-28T12:51:14.349Z [Process] info: Get city weather information not found in the DB
+2023-01-28T12:51:15.062Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T12:51:15.063Z [Process] error: Request failed with status code 400
+2023-01-28T12:51:41.584Z [Process] info: Server Running at 8000
+2023-01-28T12:51:41.629Z [Process] info: city name not found in the query params
+2023-01-28T12:51:41.726Z [Process] info: Init process
+2023-01-28T12:51:41.727Z [Process] info: Requested city not found in the database
+2023-01-28T12:51:41.727Z [Process] info: Requested city exists in the DB
+2023-01-28T12:51:41.728Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T12:51:41.733Z [Process] info: Get city weather information from the DB
+2023-01-28T12:51:41.734Z [Process] info: Get city weather information not found in the DB
+2023-01-28T12:51:42.491Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T12:51:42.491Z [Process] error: Request failed with status code 400
+2023-01-28T12:52:21.150Z [Process] info: Server Running at 8000
+2023-01-28T12:52:21.191Z [Process] info: city name not found in the query params
+2023-01-28T12:52:21.285Z [Process] info: Init process
+2023-01-28T12:52:21.285Z [Process] info: Requested city not found in the database
+2023-01-28T12:52:21.285Z [Process] info: Requested city exists in the DB
+2023-01-28T12:52:21.287Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T12:52:21.293Z [Process] info: Get city weather information from the DB
+2023-01-28T12:52:21.294Z [Process] info: Get city weather information not found in the DB
+2023-01-28T12:52:22.141Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T12:52:22.142Z [Process] error: Request failed with status code 400
+2023-01-28T12:52:42.922Z [Process] info: Server Running at 8000
+2023-01-28T12:52:42.960Z [Process] info: city name not found in the query params
+2023-01-28T12:52:43.044Z [Process] info: Init process
+2023-01-28T12:52:43.044Z [Process] info: Requested city not found in the database
+2023-01-28T12:52:43.044Z [Process] info: Requested city exists in the DB
+2023-01-28T12:52:43.045Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T12:52:43.053Z [Process] info: Get city weather information from the DB
+2023-01-28T12:52:43.054Z [Process] info: Get city weather information not found in the DB
+2023-01-28T12:52:43.886Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T12:52:43.887Z [Process] error: Request failed with status code 400
+2023-01-28T12:53:33.252Z [Process] info: Server Running at 8000
+2023-01-28T12:53:33.289Z [Process] info: city name not found in the query params
+2023-01-28T12:53:33.374Z [Process] info: Init process
+2023-01-28T12:53:33.375Z [Process] info: Requested city not found in the database
+2023-01-28T12:53:33.375Z [Process] info: Requested city exists in the DB
+2023-01-28T12:53:33.376Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T12:53:33.384Z [Process] info: Get city weather information from the DB
+2023-01-28T12:53:33.385Z [Process] info: Get city weather information not found in the DB
+2023-01-28T12:53:35.149Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T12:53:35.150Z [Process] error: Request failed with status code 400
+2023-01-28T13:03:45.482Z [Process] info: Server Running at 8000
+2023-01-28T13:03:45.518Z [Process] info: city name not found in the query params
+2023-01-28T13:03:45.602Z [Process] info: Init process
+2023-01-28T13:03:45.602Z [Process] info: Requested city not found in the database
+2023-01-28T13:03:45.602Z [Process] info: Requested city exists in the DB
+2023-01-28T13:03:45.604Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:03:45.614Z [Process] info: Get city weather information from the DB
+2023-01-28T13:03:45.615Z [Process] info: Get city weather information not found in the DB
+2023-01-28T13:03:45.689Z [Process] info: Init process
+2023-01-28T13:03:45.690Z [Process] info: Requested city exists in the DB
+2023-01-28T13:03:45.693Z [Process] info: Get city weather information from the DB
+2023-01-28T13:03:45.693Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:03:46.259Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:03:46.259Z [Process] error: Request failed with status code 400
+2023-01-28T13:03:46.261Z [Process] info: retruned data from weather API
+2023-01-28T13:03:46.471Z [Process] info: Success user request
+2023-01-28T13:04:06.203Z [Process] info: Server Running at 8000
+2023-01-28T13:04:06.241Z [Process] info: city name not found in the query params
+2023-01-28T13:04:06.327Z [Process] info: Init process
+2023-01-28T13:04:06.327Z [Process] info: Requested city not found in the database
+2023-01-28T13:04:06.327Z [Process] info: Requested city exists in the DB
+2023-01-28T13:04:06.329Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:04:06.340Z [Process] info: Get city weather information from the DB
+2023-01-28T13:04:06.341Z [Process] info: Get city weather information not found in the DB
+2023-01-28T13:04:06.412Z [Process] info: Init process
+2023-01-28T13:04:06.412Z [Process] info: Requested city exists in the DB
+2023-01-28T13:04:06.416Z [Process] info: Get city weather information from the DB
+2023-01-28T13:04:06.416Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:04:06.416Z [Process] info: Success user request
+2023-01-28T13:04:06.953Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:04:06.953Z [Process] error: Request failed with status code 400
+2023-01-28T13:06:36.464Z [Process] info: Server Running at 8000
+2023-01-28T13:06:36.502Z [Process] info: city name not found in the query params
+2023-01-28T13:06:36.584Z [Process] info: Init process
+2023-01-28T13:06:36.585Z [Process] info: Requested city not found in the database
+2023-01-28T13:06:36.585Z [Process] info: Requested city exists in the DB
+2023-01-28T13:06:36.586Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:06:36.597Z [Process] info: Get city weather information from the DB
+2023-01-28T13:06:36.598Z [Process] info: Get city weather information not found in the DB
+2023-01-28T13:06:36.670Z [Process] info: Init process
+2023-01-28T13:06:36.670Z [Process] info: Requested city exists in the DB
+2023-01-28T13:06:36.674Z [Process] info: Get city weather information from the DB
+2023-01-28T13:06:36.674Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:06:37.253Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:06:37.253Z [Process] error: Request failed with status code 400
+2023-01-28T13:06:37.256Z [Process] info: retruned data from weather API
+2023-01-28T13:06:37.367Z [Process] info: Success user request
+2023-01-28T13:18:07.658Z [Process] info: Server Running at 8000
+2023-01-28T13:18:07.752Z [Process] info: Init process
+2023-01-28T13:18:07.753Z [Process] info: Requested city exists in the DB
+2023-01-28T13:18:07.757Z [Process] info: Get city weather information from the DB
+2023-01-28T13:18:07.757Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:18:08.501Z [Process] info: retruned data from weather API
+2023-01-28T13:18:08.655Z [Process] info: city name not found in the query params
+2023-01-28T13:18:08.671Z [Process] info: Init process
+2023-01-28T13:18:08.671Z [Process] info: Requested city not found in the database
+2023-01-28T13:18:08.671Z [Process] info: Requested city exists in the DB
+2023-01-28T13:18:08.672Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:18:08.680Z [Process] info: Get city weather information from the DB
+2023-01-28T13:18:08.680Z [Process] info: Get city weather information not found in the DB
+2023-01-28T13:18:08.685Z [Process] info: Init process
+2023-01-28T13:18:08.685Z [Process] info: Requested city exists in the DB
+2023-01-28T13:18:08.689Z [Process] info: Get city weather information from the DB
+2023-01-28T13:18:08.689Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:18:08.689Z [Process] info: Success user request
+2023-01-28T13:18:09.079Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:18:09.080Z [Process] error: Request failed with status code 400
+2023-01-28T13:19:11.547Z [Process] info: Server Running at 8000
+2023-01-28T13:19:11.639Z [Process] info: Init process
+2023-01-28T13:19:11.639Z [Process] info: Requested city exists in the DB
+2023-01-28T13:19:11.643Z [Process] info: Get city weather information from the DB
+2023-01-28T13:19:11.643Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:19:12.282Z [Process] info: retruned data from weather API
+2023-01-28T13:19:12.432Z [Process] info: city name not found in the query params
+2023-01-28T13:19:12.446Z [Process] info: Init process
+2023-01-28T13:19:12.446Z [Process] info: Requested city not found in the database
+2023-01-28T13:19:12.447Z [Process] info: Requested city exists in the DB
+2023-01-28T13:19:12.447Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:19:12.456Z [Process] info: Get city weather information from the DB
+2023-01-28T13:19:12.456Z [Process] info: Get city weather information not found in the DB
+2023-01-28T13:19:12.461Z [Process] info: Init process
+2023-01-28T13:19:12.462Z [Process] info: Requested city exists in the DB
+2023-01-28T13:19:12.464Z [Process] info: Get city weather information from the DB
+2023-01-28T13:19:12.465Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:19:12.465Z [Process] info: Success user request
+2023-01-28T13:19:12.860Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:19:12.861Z [Process] error: Request failed with status code 400
+2023-01-28T13:38:40.487Z [Process] info: Server Running at 8000
+2023-01-28T13:38:40.578Z [Process] info: Init process
+2023-01-28T13:38:40.579Z [Process] info: Requested city exists in the DB
+2023-01-28T13:38:40.582Z [Process] info: Get city weather information from the DB
+2023-01-28T13:38:40.583Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:38:41.344Z [Process] info: retruned data from weather API
+2023-01-28T13:38:41.524Z [Process] info: Init process
+2023-01-28T13:38:41.524Z [Process] info: Requested city not found in the database
+2023-01-28T13:38:41.525Z [Process] info: Requested city exists in the DB
+2023-01-28T13:38:41.540Z [Process] info: Get city weather information from the DB
+2023-01-28T13:38:41.540Z [Process] info: Get city weather information not found in the DB
+2023-01-28T13:38:41.555Z [Process] info: city name not found in the query params
+2023-01-28T13:38:41.568Z [Process] info: Init process
+2023-01-28T13:38:41.568Z [Process] info: Requested city not found in the database
+2023-01-28T13:38:41.568Z [Process] info: Requested city exists in the DB
+2023-01-28T13:38:41.569Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:38:41.576Z [Process] info: Get city weather information from the DB
+2023-01-28T13:38:41.576Z [Process] info: Get city weather information not found in the DB
+2023-01-28T13:38:41.580Z [Process] info: Init process
+2023-01-28T13:38:41.580Z [Process] info: Requested city exists in the DB
+2023-01-28T13:38:41.585Z [Process] info: Get city weather information from the DB
+2023-01-28T13:38:41.585Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:38:41.586Z [Process] info: Success user request
+2023-01-28T13:38:41.909Z [Process] info: retruned data from weather API
+2023-01-28T13:38:41.909Z [Process] info: Requested weather API
+2023-01-28T13:38:41.989Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:38:41.990Z [Process] error: Request failed with status code 400
+2023-01-28T13:38:42.027Z [Process] info: inserted weather information the DB
+2023-01-28T13:38:42.028Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:38:42.507Z [Process] info: retruned data from weather API
+2023-01-28T13:39:58.866Z [Process] info: Server Running at 8000
+2023-01-28T13:39:58.976Z [Process] info: Init process
+2023-01-28T13:39:58.976Z [Process] info: Requested city exists in the DB
+2023-01-28T13:39:58.981Z [Process] info: Get city weather information from the DB
+2023-01-28T13:39:58.981Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:39:59.615Z [Process] info: retruned data from weather API
+2023-01-28T13:39:59.769Z [Process] info: Init process
+2023-01-28T13:39:59.770Z [Process] info: Requested city not found in the database
+2023-01-28T13:39:59.770Z [Process] info: Requested city exists in the DB
+2023-01-28T13:39:59.782Z [Process] info: Get city weather information from the DB
+2023-01-28T13:39:59.782Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:39:59.844Z [Process] info: city name not found in the query params
+2023-01-28T13:39:59.865Z [Process] info: Init process
+2023-01-28T13:39:59.865Z [Process] info: Requested city not found in the database
+2023-01-28T13:39:59.866Z [Process] info: Requested city exists in the DB
+2023-01-28T13:39:59.867Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:39:59.887Z [Process] info: Get city weather information from the DB
+2023-01-28T13:39:59.888Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:39:59.897Z [Process] info: Init process
+2023-01-28T13:39:59.897Z [Process] info: Requested city exists in the DB
+2023-01-28T13:39:59.903Z [Process] info: Get city weather information from the DB
+2023-01-28T13:39:59.903Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:39:59.904Z [Process] info: Success user request
+2023-01-28T13:40:00.212Z [Process] info: retruned data from weather API
+2023-01-28T13:40:00.307Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:40:00.308Z [Process] error: Request failed with status code 400
+2023-01-28T13:40:49.790Z [Process] info: Server Running at 8000
+2023-01-28T13:40:49.891Z [Process] info: Init process
+2023-01-28T13:40:49.892Z [Process] info: Requested city exists in the DB
+2023-01-28T13:40:49.895Z [Process] info: Get city weather information from the DB
+2023-01-28T13:40:49.896Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:40:50.535Z [Process] info: retruned data from weather API
+2023-01-28T13:40:50.644Z [Process] info: Init process
+2023-01-28T13:40:50.645Z [Process] info: Requested city not found in the database
+2023-01-28T13:40:50.645Z [Process] info: Requested city exists in the DB
+2023-01-28T13:40:50.661Z [Process] info: Get city weather information from the DB
+2023-01-28T13:40:50.662Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:40:50.678Z [Process] info: city name not found in the query params
+2023-01-28T13:40:50.691Z [Process] info: Init process
+2023-01-28T13:40:50.691Z [Process] info: Requested city not found in the database
+2023-01-28T13:40:50.691Z [Process] info: Requested city exists in the DB
+2023-01-28T13:40:50.692Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:40:50.699Z [Process] info: Get city weather information from the DB
+2023-01-28T13:40:50.699Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:40:50.704Z [Process] info: Init process
+2023-01-28T13:40:50.704Z [Process] info: Requested city exists in the DB
+2023-01-28T13:40:50.708Z [Process] info: Get city weather information from the DB
+2023-01-28T13:40:50.708Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:40:50.708Z [Process] info: Success user request
+2023-01-28T13:40:51.058Z [Process] info: retruned data from weather API
+2023-01-28T13:40:51.082Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:40:51.083Z [Process] error: Request failed with status code 400
+2023-01-28T13:41:21.438Z [Process] info: Server Running at 8000
+2023-01-28T13:41:21.530Z [Process] info: Init process
+2023-01-28T13:41:21.530Z [Process] info: Requested city exists in the DB
+2023-01-28T13:41:21.534Z [Process] info: Get city weather information from the DB
+2023-01-28T13:41:21.534Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:41:22.358Z [Process] info: retruned data from weather API
+2023-01-28T13:41:22.456Z [Process] info: Init process
+2023-01-28T13:41:22.456Z [Process] info: Requested city not found in the database
+2023-01-28T13:41:22.456Z [Process] info: Requested city exists in the DB
+2023-01-28T13:41:22.473Z [Process] info: Get city weather information from the DB
+2023-01-28T13:41:22.473Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:41:22.488Z [Process] info: city name not found in the query params
+2023-01-28T13:41:22.502Z [Process] info: Init process
+2023-01-28T13:41:22.502Z [Process] info: Requested city not found in the database
+2023-01-28T13:41:22.503Z [Process] info: Requested city exists in the DB
+2023-01-28T13:41:22.503Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:41:22.509Z [Process] info: Get city weather information from the DB
+2023-01-28T13:41:22.510Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:41:22.515Z [Process] info: Init process
+2023-01-28T13:41:22.515Z [Process] info: Requested city exists in the DB
+2023-01-28T13:41:22.519Z [Process] info: Get city weather information from the DB
+2023-01-28T13:41:22.519Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:41:22.519Z [Process] info: Success user request
+2023-01-28T13:41:22.861Z [Process] info: retruned data from weather API
+2023-01-28T13:41:22.904Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:41:22.904Z [Process] error: Request failed with status code 400
+2023-01-28T13:42:55.965Z [Process] info: Server Running at 8000
+2023-01-28T13:42:56.057Z [Process] info: Init process
+2023-01-28T13:42:56.057Z [Process] info: Requested city exists in the DB
+2023-01-28T13:42:56.061Z [Process] info: Get city weather information from the DB
+2023-01-28T13:42:56.061Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:42:56.850Z [Process] info: retruned data from weather API
+2023-01-28T13:42:57.013Z [Process] info: Init process
+2023-01-28T13:42:57.014Z [Process] info: Requested city not found in the database
+2023-01-28T13:42:57.014Z [Process] info: Requested city exists in the DB
+2023-01-28T13:42:57.029Z [Process] info: Get city weather information from the DB
+2023-01-28T13:42:57.029Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:42:57.043Z [Process] info: city name not found in the query params
+2023-01-28T13:42:57.057Z [Process] info: Init process
+2023-01-28T13:42:57.058Z [Process] info: Requested city not found in the database
+2023-01-28T13:42:57.058Z [Process] info: Requested city exists in the DB
+2023-01-28T13:42:57.058Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:42:57.065Z [Process] info: Get city weather information from the DB
+2023-01-28T13:42:57.065Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:42:57.070Z [Process] info: Init process
+2023-01-28T13:42:57.070Z [Process] info: Requested city exists in the DB
+2023-01-28T13:42:57.074Z [Process] info: Get city weather information from the DB
+2023-01-28T13:42:57.074Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:42:57.075Z [Process] info: Success user request
+2023-01-28T13:42:57.577Z [Process] info: retruned data from weather API
+2023-01-28T13:42:57.641Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:42:57.641Z [Process] error: Request failed with status code 400
+2023-01-28T13:43:56.438Z [Process] info: Server Running at 8000
+2023-01-28T13:43:56.529Z [Process] info: Init process
+2023-01-28T13:43:56.530Z [Process] info: Requested city exists in the DB
+2023-01-28T13:43:56.533Z [Process] info: Get city weather information from the DB
+2023-01-28T13:43:56.534Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:43:57.169Z [Process] info: retruned data from weather API
+2023-01-28T13:43:57.283Z [Process] info: Init process
+2023-01-28T13:43:57.283Z [Process] info: Requested city not found in the database
+2023-01-28T13:43:57.284Z [Process] info: Requested city exists in the DB
+2023-01-28T13:43:57.301Z [Process] info: Get city weather information from the DB
+2023-01-28T13:43:57.301Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:43:57.315Z [Process] info: city name not found in the query params
+2023-01-28T13:43:57.328Z [Process] info: Init process
+2023-01-28T13:43:57.328Z [Process] info: Requested city not found in the database
+2023-01-28T13:43:57.329Z [Process] info: Requested city exists in the DB
+2023-01-28T13:43:57.329Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:43:57.335Z [Process] info: Get city weather information from the DB
+2023-01-28T13:43:57.336Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:43:57.340Z [Process] info: Init process
+2023-01-28T13:43:57.340Z [Process] info: Requested city exists in the DB
+2023-01-28T13:43:57.344Z [Process] info: Get city weather information from the DB
+2023-01-28T13:43:57.344Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:43:57.344Z [Process] info: Success user request
+2023-01-28T13:43:57.694Z [Process] info: retruned data from weather API
+2023-01-28T13:43:57.705Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:43:57.705Z [Process] error: Request failed with status code 400
+2023-01-28T13:44:39.939Z [Process] info: Server Running at 8000
+2023-01-28T13:44:40.040Z [Process] info: Init process
+2023-01-28T13:44:40.040Z [Process] info: Requested city exists in the DB
+2023-01-28T13:44:40.044Z [Process] info: Get city weather information from the DB
+2023-01-28T13:44:40.044Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:44:40.705Z [Process] info: retruned data from weather API
+2023-01-28T13:44:40.826Z [Process] info: Init process
+2023-01-28T13:44:40.826Z [Process] info: Requested city not found in the database
+2023-01-28T13:44:40.826Z [Process] info: Requested city exists in the DB
+2023-01-28T13:44:40.841Z [Process] info: Get city weather information from the DB
+2023-01-28T13:44:40.841Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:44:40.856Z [Process] info: city name not found in the query params
+2023-01-28T13:44:40.869Z [Process] info: Init process
+2023-01-28T13:44:40.869Z [Process] info: Requested city not found in the database
+2023-01-28T13:44:40.870Z [Process] info: Requested city exists in the DB
+2023-01-28T13:44:40.870Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:44:40.877Z [Process] info: Get city weather information from the DB
+2023-01-28T13:44:40.877Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:44:40.881Z [Process] info: Init process
+2023-01-28T13:44:40.881Z [Process] info: Requested city exists in the DB
+2023-01-28T13:44:40.885Z [Process] info: Get city weather information from the DB
+2023-01-28T13:44:40.885Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:44:40.885Z [Process] info: Success user request
+2023-01-28T13:44:41.229Z [Process] info: retruned data from weather API
+2023-01-28T13:44:41.268Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:44:41.269Z [Process] error: Request failed with status code 400
+2023-01-28T13:45:19.881Z [Process] info: Server Running at 8000
+2023-01-28T13:45:19.974Z [Process] info: Init process
+2023-01-28T13:45:19.974Z [Process] info: Requested city exists in the DB
+2023-01-28T13:45:19.978Z [Process] info: Get city weather information from the DB
+2023-01-28T13:45:19.978Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:45:20.619Z [Process] info: retruned data from weather API
+2023-01-28T13:45:20.705Z [Process] info: Init process
+2023-01-28T13:45:20.706Z [Process] info: Requested city not found in the database
+2023-01-28T13:45:20.706Z [Process] info: Requested city exists in the DB
+2023-01-28T13:45:20.724Z [Process] info: Get city weather information from the DB
+2023-01-28T13:45:20.724Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:45:20.739Z [Process] info: city name not found in the query params
+2023-01-28T13:45:20.752Z [Process] info: Init process
+2023-01-28T13:45:20.752Z [Process] info: Requested city not found in the database
+2023-01-28T13:45:20.752Z [Process] info: Requested city exists in the DB
+2023-01-28T13:45:20.753Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:45:20.759Z [Process] info: Get city weather information from the DB
+2023-01-28T13:45:20.759Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:45:20.765Z [Process] info: Init process
+2023-01-28T13:45:20.765Z [Process] info: Requested city exists in the DB
+2023-01-28T13:45:20.770Z [Process] info: Get city weather information from the DB
+2023-01-28T13:45:20.770Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:45:20.770Z [Process] info: Success user request
+2023-01-28T13:45:21.129Z [Process] info: retruned data from weather API
+2023-01-28T13:45:21.248Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:45:21.248Z [Process] error: Request failed with status code 400
+2023-01-28T13:47:30.157Z [Process] info: Server Running at 8000
+2023-01-28T13:47:30.251Z [Process] info: Init process
+2023-01-28T13:47:30.251Z [Process] info: Requested city exists in the DB
+2023-01-28T13:47:30.255Z [Process] info: Get city weather information from the DB
+2023-01-28T13:47:30.255Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:47:30.956Z [Process] info: retruned data from weather API
+2023-01-28T13:47:31.037Z [Process] info: Init process
+2023-01-28T13:47:31.037Z [Process] info: Requested city not found in the database
+2023-01-28T13:47:31.038Z [Process] info: Requested city exists in the DB
+2023-01-28T13:47:31.056Z [Process] info: city name not found in the query params
+2023-01-28T13:47:31.068Z [Process] info: Get city weather information from the DB
+2023-01-28T13:47:31.068Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:47:31.077Z [Process] info: Init process
+2023-01-28T13:47:31.077Z [Process] info: Requested city not found in the database
+2023-01-28T13:47:31.077Z [Process] info: Requested city exists in the DB
+2023-01-28T13:47:31.078Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:47:31.086Z [Process] info: Get city weather information from the DB
+2023-01-28T13:47:31.086Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:47:31.092Z [Process] info: Init process
+2023-01-28T13:47:31.092Z [Process] info: Requested city exists in the DB
+2023-01-28T13:47:31.096Z [Process] info: Get city weather information from the DB
+2023-01-28T13:47:31.096Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:47:31.096Z [Process] info: Success user request
+2023-01-28T13:47:31.467Z [Process] info: retruned data from weather API
+2023-01-28T13:47:31.475Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:47:31.476Z [Process] error: Request failed with status code 400
+2023-01-28T13:48:49.329Z [Process] info: Server Running at 8000
+2023-01-28T13:48:49.428Z [Process] info: Init process
+2023-01-28T13:48:49.428Z [Process] info: Requested city exists in the DB
+2023-01-28T13:48:49.432Z [Process] info: Get city weather information from the DB
+2023-01-28T13:48:49.433Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:48:50.138Z [Process] info: retruned data from weather API
+2023-01-28T13:48:50.343Z [Process] info: Init process
+2023-01-28T13:48:50.343Z [Process] info: Requested city not found in the database
+2023-01-28T13:48:50.344Z [Process] info: Requested city exists in the DB
+2023-01-28T13:48:50.362Z [Process] info: city name not found in the query params
+2023-01-28T13:48:50.373Z [Process] info: Get city weather information from the DB
+2023-01-28T13:48:50.373Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:48:50.381Z [Process] info: Init process
+2023-01-28T13:48:50.381Z [Process] info: Requested city not found in the database
+2023-01-28T13:48:50.382Z [Process] info: Requested city exists in the DB
+2023-01-28T13:48:50.382Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:48:50.391Z [Process] info: Get city weather information from the DB
+2023-01-28T13:48:50.391Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:48:50.396Z [Process] info: Init process
+2023-01-28T13:48:50.396Z [Process] info: Requested city exists in the DB
+2023-01-28T13:48:50.401Z [Process] info: Get city weather information from the DB
+2023-01-28T13:48:50.402Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:48:50.402Z [Process] info: Success user request
+2023-01-28T13:48:50.777Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:48:50.777Z [Process] error: Request failed with status code 400
+2023-01-28T13:48:50.779Z [Process] info: retruned data from weather API
+2023-01-28T13:48:56.810Z [Process] info: Server Running at 8000
+2023-01-28T13:48:56.910Z [Process] info: Init process
+2023-01-28T13:48:56.910Z [Process] info: Requested city exists in the DB
+2023-01-28T13:48:56.914Z [Process] info: Get city weather information from the DB
+2023-01-28T13:48:56.914Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:48:56.921Z [Process] info: Init process
+2023-01-28T13:48:56.921Z [Process] info: Requested city not found in the database
+2023-01-28T13:48:56.922Z [Process] info: Requested city exists in the DB
+2023-01-28T13:48:56.943Z [Process] info: Get city weather information from the DB
+2023-01-28T13:48:56.943Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:48:56.954Z [Process] info: city name not found in the query params
+2023-01-28T13:48:56.971Z [Process] info: Init process
+2023-01-28T13:48:56.971Z [Process] info: Requested city not found in the database
+2023-01-28T13:48:56.972Z [Process] info: Requested city exists in the DB
+2023-01-28T13:48:56.972Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:48:56.980Z [Process] info: Get city weather information from the DB
+2023-01-28T13:48:56.980Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:48:56.981Z [Process] info: Init process
+2023-01-28T13:48:56.981Z [Process] info: Requested city exists in the DB
+2023-01-28T13:48:56.984Z [Process] info: Get city weather information from the DB
+2023-01-28T13:48:56.984Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:48:56.984Z [Process] info: Success user request
+2023-01-28T13:50:04.556Z [Process] info: Server Running at 8000
+2023-01-28T13:50:04.664Z [Process] info: Init process
+2023-01-28T13:50:04.665Z [Process] info: Requested city exists in the DB
+2023-01-28T13:50:04.670Z [Process] info: Get city weather information from the DB
+2023-01-28T13:50:04.670Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:50:05.377Z [Process] info: retruned data from weather API
+2023-01-28T13:50:05.486Z [Process] info: Init process
+2023-01-28T13:50:05.487Z [Process] info: Requested city not found in the database
+2023-01-28T13:50:05.487Z [Process] info: Requested city exists in the DB
+2023-01-28T13:50:05.504Z [Process] info: Get city weather information from the DB
+2023-01-28T13:50:05.504Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:50:05.521Z [Process] info: city name not found in the query params
+2023-01-28T13:50:05.536Z [Process] info: Init process
+2023-01-28T13:50:05.536Z [Process] info: Requested city not found in the database
+2023-01-28T13:50:05.536Z [Process] info: Requested city exists in the DB
+2023-01-28T13:50:05.537Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:50:05.547Z [Process] info: Get city weather information from the DB
+2023-01-28T13:50:05.547Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:50:05.552Z [Process] info: Init process
+2023-01-28T13:50:05.553Z [Process] info: Requested city exists in the DB
+2023-01-28T13:50:05.557Z [Process] info: Get city weather information from the DB
+2023-01-28T13:50:05.557Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:50:05.557Z [Process] info: Success user request
+2023-01-28T13:50:05.930Z [Process] info: retruned data from weather API
+2023-01-28T13:50:06.021Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:50:06.021Z [Process] error: Request failed with status code 400
+2023-01-28T13:51:58.962Z [Process] info: Server Running at 8000
+2023-01-28T13:51:59.055Z [Process] info: Init process
+2023-01-28T13:51:59.056Z [Process] info: Requested city exists in the DB
+2023-01-28T13:51:59.059Z [Process] info: Get city weather information from the DB
+2023-01-28T13:51:59.059Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:51:59.830Z [Process] info: retruned data from weather API
+2023-01-28T13:51:59.906Z [Process] info: Init process
+2023-01-28T13:51:59.906Z [Process] info: Requested city not found in the database
+2023-01-28T13:51:59.907Z [Process] info: Requested city exists in the DB
+2023-01-28T13:51:59.922Z [Process] info: Get city weather information from the DB
+2023-01-28T13:51:59.922Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:51:59.936Z [Process] info: city name not found in the query params
+2023-01-28T13:51:59.950Z [Process] info: Init process
+2023-01-28T13:51:59.950Z [Process] info: Requested city not found in the database
+2023-01-28T13:51:59.950Z [Process] info: Requested city exists in the DB
+2023-01-28T13:51:59.951Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:51:59.958Z [Process] info: Get city weather information from the DB
+2023-01-28T13:51:59.958Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:51:59.963Z [Process] info: Init process
+2023-01-28T13:51:59.964Z [Process] info: Requested city exists in the DB
+2023-01-28T13:51:59.968Z [Process] info: Get city weather information from the DB
+2023-01-28T13:51:59.969Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:51:59.969Z [Process] info: Success user request
+2023-01-28T13:52:00.296Z [Process] info: retruned data from weather API
+2023-01-28T13:52:00.378Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:52:00.378Z [Process] error: Request failed with status code 400
+2023-01-28T13:54:19.166Z [Process] info: Server Running at 8000
+2023-01-28T13:54:19.262Z [Process] info: Init process
+2023-01-28T13:54:19.262Z [Process] info: Requested city exists in the DB
+2023-01-28T13:54:19.266Z [Process] info: Get city weather information from the DB
+2023-01-28T13:54:19.266Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:54:19.890Z [Process] info: retruned data from weather API
+2023-01-28T13:54:19.970Z [Process] info: Init process
+2023-01-28T13:54:19.970Z [Process] info: Requested city not found in the database
+2023-01-28T13:54:19.971Z [Process] info: Requested city exists in the DB
+2023-01-28T13:54:19.988Z [Process] info: Get city weather information from the DB
+2023-01-28T13:54:19.988Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:54:20.003Z [Process] info: city name not found in the query params
+2023-01-28T13:54:20.017Z [Process] info: Init process
+2023-01-28T13:54:20.017Z [Process] info: Requested city not found in the database
+2023-01-28T13:54:20.017Z [Process] info: Requested city exists in the DB
+2023-01-28T13:54:20.018Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:54:20.025Z [Process] info: Get city weather information from the DB
+2023-01-28T13:54:20.026Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:54:20.031Z [Process] info: Init process
+2023-01-28T13:54:20.031Z [Process] info: Requested city exists in the DB
+2023-01-28T13:54:20.034Z [Process] info: Get city weather information from the DB
+2023-01-28T13:54:20.035Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:54:20.035Z [Process] info: Success user request
+2023-01-28T13:54:20.406Z [Process] info: retruned data from weather API
+2023-01-28T13:54:20.455Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:54:20.455Z [Process] error: Request failed with status code 400
+2023-01-28T13:54:47.205Z [Process] info: Server Running at 8000
+2023-01-28T13:54:47.298Z [Process] info: Init process
+2023-01-28T13:54:47.299Z [Process] info: Requested city exists in the DB
+2023-01-28T13:54:47.303Z [Process] info: Get city weather information from the DB
+2023-01-28T13:54:47.303Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:54:48.115Z [Process] info: retruned data from weather API
+2023-01-28T13:54:48.350Z [Process] info: Init process
+2023-01-28T13:54:48.351Z [Process] info: Requested city not found in the database
+2023-01-28T13:54:48.351Z [Process] info: Requested city exists in the DB
+2023-01-28T13:54:48.367Z [Process] info: Get city weather information from the DB
+2023-01-28T13:54:48.368Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:54:48.382Z [Process] info: city name not found in the query params
+2023-01-28T13:54:48.395Z [Process] info: Init process
+2023-01-28T13:54:48.395Z [Process] info: Requested city not found in the database
+2023-01-28T13:54:48.395Z [Process] info: Requested city exists in the DB
+2023-01-28T13:54:48.396Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:54:48.403Z [Process] info: Get city weather information from the DB
+2023-01-28T13:54:48.403Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:54:48.408Z [Process] info: Init process
+2023-01-28T13:54:48.408Z [Process] info: Requested city exists in the DB
+2023-01-28T13:54:48.412Z [Process] info: Get city weather information from the DB
+2023-01-28T13:54:48.412Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:54:48.412Z [Process] info: Success user request
+2023-01-28T13:54:48.800Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:54:48.801Z [Process] error: Request failed with status code 400
+2023-01-28T13:54:48.802Z [Process] info: retruned data from weather API
+2023-01-28T13:55:13.303Z [Process] info: Server Running at 8000
+2023-01-28T13:55:13.396Z [Process] info: Init process
+2023-01-28T13:55:13.396Z [Process] info: Requested city exists in the DB
+2023-01-28T13:55:13.400Z [Process] info: Get city weather information from the DB
+2023-01-28T13:55:13.400Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:55:14.000Z [Process] info: retruned data from weather API
+2023-01-28T13:55:14.092Z [Process] info: Init process
+2023-01-28T13:55:14.092Z [Process] info: Requested city not found in the database
+2023-01-28T13:55:14.093Z [Process] info: Requested city exists in the DB
+2023-01-28T13:55:14.111Z [Process] info: Get city weather information from the DB
+2023-01-28T13:55:14.111Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:55:14.126Z [Process] info: city name not found in the query params
+2023-01-28T13:55:14.138Z [Process] info: Init process
+2023-01-28T13:55:14.138Z [Process] info: Requested city not found in the database
+2023-01-28T13:55:14.139Z [Process] info: Requested city exists in the DB
+2023-01-28T13:55:14.139Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:55:14.146Z [Process] info: Get city weather information from the DB
+2023-01-28T13:55:14.146Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:55:14.150Z [Process] info: Init process
+2023-01-28T13:55:14.151Z [Process] info: Requested city exists in the DB
+2023-01-28T13:55:14.155Z [Process] info: Get city weather information from the DB
+2023-01-28T13:55:14.155Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:55:14.155Z [Process] info: Success user request
+2023-01-28T13:55:14.518Z [Process] info: retruned data from weather API
+2023-01-28T13:55:14.526Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:55:14.526Z [Process] error: Request failed with status code 400
+2023-01-28T13:55:48.676Z [Process] info: Server Running at 8000
+2023-01-28T13:55:48.768Z [Process] info: Init process
+2023-01-28T13:55:48.768Z [Process] info: Requested city exists in the DB
+2023-01-28T13:55:48.772Z [Process] info: Get city weather information from the DB
+2023-01-28T13:55:48.772Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:55:49.559Z [Process] info: retruned data from weather API
+2023-01-28T13:55:49.702Z [Process] info: Init process
+2023-01-28T13:55:49.702Z [Process] info: Requested city not found in the database
+2023-01-28T13:55:49.703Z [Process] info: Requested city exists in the DB
+2023-01-28T13:55:49.724Z [Process] info: Get city weather information from the DB
+2023-01-28T13:55:49.725Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:55:49.740Z [Process] info: city name not found in the query params
+2023-01-28T13:55:49.753Z [Process] info: Init process
+2023-01-28T13:55:49.753Z [Process] info: Requested city not found in the database
+2023-01-28T13:55:49.753Z [Process] info: Requested city exists in the DB
+2023-01-28T13:55:49.754Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:55:49.762Z [Process] info: Get city weather information from the DB
+2023-01-28T13:55:49.762Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:55:49.768Z [Process] info: Init process
+2023-01-28T13:55:49.769Z [Process] info: Requested city exists in the DB
+2023-01-28T13:55:49.772Z [Process] info: Get city weather information from the DB
+2023-01-28T13:55:49.772Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:55:49.772Z [Process] info: Success user request
+2023-01-28T13:55:50.216Z [Process] info: retruned data from weather API
+2023-01-28T13:55:50.246Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:55:50.246Z [Process] error: Request failed with status code 400
+2023-01-28T13:56:31.198Z [Process] info: Server Running at 8000
+2023-01-28T13:56:31.292Z [Process] info: Init process
+2023-01-28T13:56:31.292Z [Process] info: Requested city exists in the DB
+2023-01-28T13:56:31.296Z [Process] info: Get city weather information from the DB
+2023-01-28T13:56:31.296Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:56:32.067Z [Process] info: retruned data from weather API
+2023-01-28T13:56:32.145Z [Process] info: Init process
+2023-01-28T13:56:32.146Z [Process] info: Requested city not found in the database
+2023-01-28T13:56:32.146Z [Process] info: Requested city exists in the DB
+2023-01-28T13:56:32.166Z [Process] info: Get city weather information from the DB
+2023-01-28T13:56:32.166Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:56:32.181Z [Process] info: city name not found in the query params
+2023-01-28T13:56:32.195Z [Process] info: Init process
+2023-01-28T13:56:32.195Z [Process] info: Requested city not found in the database
+2023-01-28T13:56:32.195Z [Process] info: Requested city exists in the DB
+2023-01-28T13:56:32.196Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:56:32.204Z [Process] info: Get city weather information from the DB
+2023-01-28T13:56:32.204Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:56:32.209Z [Process] info: Init process
+2023-01-28T13:56:32.209Z [Process] info: Requested city exists in the DB
+2023-01-28T13:56:32.213Z [Process] info: Get city weather information from the DB
+2023-01-28T13:56:32.213Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:56:32.213Z [Process] info: Success user request
+2023-01-28T13:56:32.576Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:56:32.577Z [Process] error: Request failed with status code 400
+2023-01-28T13:56:32.580Z [Process] info: retruned data from weather API
+2023-01-28T13:58:55.918Z [Process] info: Server Running at 8000
+2023-01-28T13:58:56.014Z [Process] info: Init process
+2023-01-28T13:58:56.014Z [Process] info: Requested city exists in the DB
+2023-01-28T13:58:56.018Z [Process] info: Get city weather information from the DB
+2023-01-28T13:58:56.018Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:58:56.664Z [Process] info: retruned data from weather API
+2023-01-28T13:58:56.807Z [Process] info: Init process
+2023-01-28T13:58:56.808Z [Process] info: Requested city not found in the database
+2023-01-28T13:58:56.808Z [Process] info: Requested city exists in the DB
+2023-01-28T13:58:56.822Z [Process] info: Get city weather information from the DB
+2023-01-28T13:58:56.823Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:58:56.853Z [Process] info: city name not found in the query params
+2023-01-28T13:58:56.867Z [Process] info: Init process
+2023-01-28T13:58:56.867Z [Process] info: Requested city not found in the database
+2023-01-28T13:58:56.867Z [Process] info: Requested city exists in the DB
+2023-01-28T13:58:56.868Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T13:58:56.876Z [Process] info: Get city weather information from the DB
+2023-01-28T13:58:56.876Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T13:58:56.882Z [Process] info: Init process
+2023-01-28T13:58:56.882Z [Process] info: Requested city exists in the DB
+2023-01-28T13:58:56.886Z [Process] info: Get city weather information from the DB
+2023-01-28T13:58:56.886Z [Process] info: Get weather information from the database and return to user
+2023-01-28T13:58:56.886Z [Process] info: Success user request
+2023-01-28T13:58:57.231Z [Process] info: retruned data from weather API
+2023-01-28T13:58:57.245Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T13:58:57.245Z [Process] error: Request failed with status code 400
+2023-01-28T14:00:27.928Z [Process] info: Server Running at 8000
+2023-01-28T14:00:28.023Z [Process] info: Init process
+2023-01-28T14:00:28.023Z [Process] info: Requested city exists in the DB
+2023-01-28T14:00:28.027Z [Process] info: Get city weather information from the DB
+2023-01-28T14:00:28.027Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:00:29.124Z [Process] info: retruned data from weather API
+2023-01-28T14:00:29.276Z [Process] info: Init process
+2023-01-28T14:00:29.277Z [Process] info: Requested city not found in the database
+2023-01-28T14:00:29.277Z [Process] info: Requested city exists in the DB
+2023-01-28T14:00:29.296Z [Process] info: city name not found in the query params
+2023-01-28T14:00:29.312Z [Process] info: Init process
+2023-01-28T14:00:29.313Z [Process] info: Requested city not found in the database
+2023-01-28T14:00:29.313Z [Process] info: Requested city exists in the DB
+2023-01-28T14:00:29.313Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:00:29.320Z [Process] info: Init process
+2023-01-28T14:00:29.320Z [Process] info: Requested city exists in the DB
+2023-01-28T14:00:29.366Z [Process] info: Get city weather information from the DB
+2023-01-28T14:00:29.366Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:00:29.371Z [Process] info: Get city weather information from the DB
+2023-01-28T14:00:29.371Z [Process] info: Get weather information from the database and return to user
+2023-01-28T14:00:29.371Z [Process] info: Success user request
+2023-01-28T14:00:29.372Z [Process] info: Get city weather information from the DB
+2023-01-28T14:00:29.372Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:00:29.782Z [Process] info: retruned data from weather API
+2023-01-28T14:00:29.810Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T14:00:29.810Z [Process] error: Request failed with status code 400
+2023-01-28T14:18:45.765Z [Process] info: Server Running at 8000
+2023-01-28T14:18:45.857Z [Process] info: Init process
+2023-01-28T14:18:45.857Z [Process] info: Requested city exists in the DB
+2023-01-28T14:18:45.861Z [Process] info: Get city weather information from the DB
+2023-01-28T14:18:45.861Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:18:46.755Z [Process] info: retruned data from weather API
+2023-01-28T14:18:46.868Z [Process] info: Init process
+2023-01-28T14:18:46.869Z [Process] info: Requested city not found in the database
+2023-01-28T14:18:46.869Z [Process] info: Requested city exists in the DB
+2023-01-28T14:18:46.889Z [Process] info: city name not found in the query params
+2023-01-28T14:18:46.900Z [Process] info: Get city weather information from the DB
+2023-01-28T14:18:46.900Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:18:46.908Z [Process] info: Init process
+2023-01-28T14:18:46.909Z [Process] info: Requested city not found in the database
+2023-01-28T14:18:46.909Z [Process] info: Requested city exists in the DB
+2023-01-28T14:18:46.909Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:18:46.917Z [Process] info: Get city weather information from the DB
+2023-01-28T14:18:46.917Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:18:46.922Z [Process] info: Init process
+2023-01-28T14:18:46.922Z [Process] info: Requested city exists in the DB
+2023-01-28T14:18:46.925Z [Process] info: Get city weather information from the DB
+2023-01-28T14:18:46.926Z [Process] info: Get weather information from the database and return to user
+2023-01-28T14:18:46.926Z [Process] info: Success user request
+2023-01-28T14:18:47.294Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T14:18:47.295Z [Process] error: Request failed with status code 400
+2023-01-28T14:18:47.297Z [Process] info: retruned data from weather API
+2023-01-28T14:26:30.910Z [Process] info: Server Running at 8000
+2023-01-28T14:26:31.005Z [Process] info: Init process
+2023-01-28T14:26:31.005Z [Process] info: Requested city exists in the DB
+2023-01-28T14:26:31.009Z [Process] info: Get city weather information from the DB
+2023-01-28T14:26:31.010Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:26:31.678Z [Process] info: retruned data from weather API
+2023-01-28T14:26:31.766Z [Process] info: Init process
+2023-01-28T14:26:31.766Z [Process] info: Requested city not found in the database
+2023-01-28T14:26:31.767Z [Process] info: Requested city exists in the DB
+2023-01-28T14:26:31.779Z [Process] info: Get city weather information from the DB
+2023-01-28T14:26:31.780Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:26:31.803Z [Process] info: city name not found in the query params
+2023-01-28T14:26:31.814Z [Process] info: Init process
+2023-01-28T14:26:31.814Z [Process] info: Requested city not found in the database
+2023-01-28T14:26:31.814Z [Process] info: Requested city exists in the DB
+2023-01-28T14:26:31.815Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:26:31.824Z [Process] info: Get city weather information from the DB
+2023-01-28T14:26:31.824Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:26:31.830Z [Process] info: Init process
+2023-01-28T14:26:31.830Z [Process] info: Requested city exists in the DB
+2023-01-28T14:26:31.834Z [Process] info: Get city weather information from the DB
+2023-01-28T14:26:31.834Z [Process] info: Get weather information from the database and return to user
+2023-01-28T14:26:31.834Z [Process] info: Success user request
+2023-01-28T14:26:32.170Z [Process] info: retruned data from weather API
+2023-01-28T14:26:32.209Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T14:26:32.210Z [Process] error: Request failed with status code 400
+2023-01-28T14:27:25.348Z [Process] info: Server Running at 8000
+2023-01-28T14:27:25.440Z [Process] info: Init process
+2023-01-28T14:27:25.441Z [Process] info: Requested city exists in the DB
+2023-01-28T14:27:25.445Z [Process] info: Get city weather information from the DB
+2023-01-28T14:27:25.445Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:27:26.029Z [Process] info: retruned data from weather API
+2023-01-28T14:27:26.148Z [Process] info: Init process
+2023-01-28T14:27:26.148Z [Process] info: Requested city not found in the database
+2023-01-28T14:27:26.148Z [Process] info: Requested city exists in the DB
+2023-01-28T14:27:26.156Z [Process] info: Get city weather information from the DB
+2023-01-28T14:27:26.156Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:27:26.180Z [Process] info: city name not found in the query params
+2023-01-28T14:27:26.192Z [Process] info: Init process
+2023-01-28T14:27:26.192Z [Process] info: Requested city not found in the database
+2023-01-28T14:27:26.193Z [Process] info: Requested city exists in the DB
+2023-01-28T14:27:26.193Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:27:26.201Z [Process] info: Get city weather information from the DB
+2023-01-28T14:27:26.201Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:27:26.206Z [Process] info: Init process
+2023-01-28T14:27:26.207Z [Process] info: Requested city exists in the DB
+2023-01-28T14:27:26.211Z [Process] info: Get city weather information from the DB
+2023-01-28T14:27:26.211Z [Process] info: Get weather information from the database and return to user
+2023-01-28T14:27:26.211Z [Process] info: Success user request
+2023-01-28T14:27:26.559Z [Process] info: retruned data from weather API
+2023-01-28T14:27:26.585Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T14:27:26.585Z [Process] error: Request failed with status code 400
+2023-01-28T14:28:09.256Z [Process] info: Server Running at 8000
+2023-01-28T14:28:09.353Z [Process] info: Init process
+2023-01-28T14:28:09.353Z [Process] info: Requested city exists in the DB
+2023-01-28T14:28:09.357Z [Process] info: Get city weather information from the DB
+2023-01-28T14:28:09.358Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:28:10.235Z [Process] info: retruned data from weather API
+2023-01-28T14:28:10.340Z [Process] info: Init process
+2023-01-28T14:28:10.341Z [Process] info: Requested city not found in the database
+2023-01-28T14:28:10.341Z [Process] info: Requested city exists in the DB
+2023-01-28T14:28:10.349Z [Process] info: Get city weather information from the DB
+2023-01-28T14:28:10.349Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:28:10.372Z [Process] info: city name not found in the query params
+2023-01-28T14:28:10.384Z [Process] info: Init process
+2023-01-28T14:28:10.384Z [Process] info: Requested city not found in the database
+2023-01-28T14:28:10.384Z [Process] info: Requested city exists in the DB
+2023-01-28T14:28:10.385Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:28:10.392Z [Process] info: Get city weather information from the DB
+2023-01-28T14:28:10.392Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:28:10.398Z [Process] info: Init process
+2023-01-28T14:28:10.399Z [Process] info: Requested city exists in the DB
+2023-01-28T14:28:10.402Z [Process] info: Get city weather information from the DB
+2023-01-28T14:28:10.402Z [Process] info: Get weather information from the database and return to user
+2023-01-28T14:28:10.403Z [Process] info: Success user request
+2023-01-28T14:28:10.747Z [Process] info: retruned data from weather API
+2023-01-28T14:28:10.790Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T14:28:10.791Z [Process] error: Request failed with status code 400
+2023-01-28T14:30:18.652Z [Process] info: Server Running at 8000
+2023-01-28T14:30:18.746Z [Process] info: Init process
+2023-01-28T14:30:18.747Z [Process] info: Requested city exists in the DB
+2023-01-28T14:30:18.751Z [Process] info: Get city weather information from the DB
+2023-01-28T14:30:18.751Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:30:19.448Z [Process] info: retruned data from weather API
+2023-01-28T14:30:19.590Z [Process] info: Init process
+2023-01-28T14:30:19.590Z [Process] info: Requested city not found in the database
+2023-01-28T14:30:19.590Z [Process] info: Requested city exists in the DB
+2023-01-28T14:30:19.599Z [Process] info: Get city weather information from the DB
+2023-01-28T14:30:19.600Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:30:19.628Z [Process] info: city name not found in the query params
+2023-01-28T14:30:19.639Z [Process] info: Init process
+2023-01-28T14:30:19.639Z [Process] info: Requested city not found in the database
+2023-01-28T14:30:19.639Z [Process] info: Requested city exists in the DB
+2023-01-28T14:30:19.640Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:30:19.649Z [Process] info: Get city weather information from the DB
+2023-01-28T14:30:19.649Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:30:19.654Z [Process] info: Init process
+2023-01-28T14:30:19.655Z [Process] info: Requested city exists in the DB
+2023-01-28T14:30:19.658Z [Process] info: Get city weather information from the DB
+2023-01-28T14:30:19.658Z [Process] info: Get weather information from the database and return to user
+2023-01-28T14:30:19.658Z [Process] info: Success user request
+2023-01-28T14:30:20.017Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T14:30:20.018Z [Process] error: Request failed with status code 400
+2023-01-28T14:30:20.024Z [Process] info: retruned data from weather API
+2023-01-28T14:30:39.494Z [Process] info: Server Running at 8000
+2023-01-28T14:30:39.583Z [Process] info: Init process
+2023-01-28T14:30:39.584Z [Process] info: Requested city exists in the DB
+2023-01-28T14:30:39.588Z [Process] info: Get city weather information from the DB
+2023-01-28T14:30:39.588Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:30:40.341Z [Process] info: retruned data from weather API
+2023-01-28T14:30:40.416Z [Process] info: Init process
+2023-01-28T14:30:40.417Z [Process] info: Requested city not found in the database
+2023-01-28T14:30:40.417Z [Process] info: Requested city exists in the DB
+2023-01-28T14:30:40.424Z [Process] info: Get city weather information from the DB
+2023-01-28T14:30:40.425Z [Process] info: Get weather information from the database and return to user
+2023-01-28T14:30:40.453Z [Process] info: city name not found in the query params
+2023-01-28T14:30:40.466Z [Process] info: Init process
+2023-01-28T14:30:40.466Z [Process] info: Requested city not found in the database
+2023-01-28T14:30:40.466Z [Process] info: Requested city exists in the DB
+2023-01-28T14:30:40.468Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:30:40.474Z [Process] info: Get city weather information from the DB
+2023-01-28T14:30:40.475Z [Process] info: Get weather information from the database and return to user
+2023-01-28T14:30:40.475Z [Process] info: Init process
+2023-01-28T14:30:40.475Z [Process] info: Requested city exists in the DB
+2023-01-28T14:30:40.478Z [Process] info: Get city weather information from the DB
+2023-01-28T14:30:40.478Z [Process] info: Get weather information from the database and return to user
+2023-01-28T14:30:40.478Z [Process] info: Success user request
+2023-01-28T14:30:48.906Z [Process] info: Server Running at 8000
+2023-01-28T14:30:48.998Z [Process] info: Init process
+2023-01-28T14:30:48.998Z [Process] info: Requested city exists in the DB
+2023-01-28T14:30:49.002Z [Process] info: Get city weather information from the DB
+2023-01-28T14:30:49.002Z [Process] info: Get weather information from the database and return to user
+2023-01-28T14:30:49.012Z [Process] info: Init process
+2023-01-28T14:30:49.012Z [Process] info: Requested city not found in the database
+2023-01-28T14:30:49.012Z [Process] info: Requested city exists in the DB
+2023-01-28T14:30:49.019Z [Process] info: Get city weather information from the DB
+2023-01-28T14:30:49.019Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:30:49.129Z [Process] info: city name not found in the query params
+2023-01-28T14:30:49.146Z [Process] info: Init process
+2023-01-28T14:30:49.146Z [Process] info: Requested city not found in the database
+2023-01-28T14:30:49.146Z [Process] info: Requested city exists in the DB
+2023-01-28T14:30:49.147Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:30:49.154Z [Process] info: Get city weather information from the DB
+2023-01-28T14:30:49.154Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:30:49.158Z [Process] info: Init process
+2023-01-28T14:30:49.159Z [Process] info: Requested city exists in the DB
+2023-01-28T14:30:49.163Z [Process] info: Get city weather information from the DB
+2023-01-28T14:30:49.163Z [Process] info: Get weather information from the database and return to user
+2023-01-28T14:30:49.163Z [Process] info: Success user request
+2023-01-28T14:30:49.611Z [Process] info: retruned data from weather API
+2023-01-28T14:30:49.666Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T14:30:49.667Z [Process] error: Request failed with status code 400
+2023-01-28T14:31:15.362Z [Process] info: Server Running at 8000
+2023-01-28T14:31:15.457Z [Process] info: Init process
+2023-01-28T14:31:15.458Z [Process] info: Requested city exists in the DB
+2023-01-28T14:31:15.462Z [Process] info: Get city weather information from the DB
+2023-01-28T14:31:15.462Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:31:16.067Z [Process] info: retruned data from weather API
+2023-01-28T14:31:16.165Z [Process] info: Init process
+2023-01-28T14:31:16.166Z [Process] info: Requested city not found in the database
+2023-01-28T14:31:16.166Z [Process] info: Requested city exists in the DB
+2023-01-28T14:31:16.173Z [Process] info: Get city weather information from the DB
+2023-01-28T14:31:16.174Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:31:16.206Z [Process] info: city name not found in the query params
+2023-01-28T14:31:16.218Z [Process] info: Init process
+2023-01-28T14:31:16.218Z [Process] info: Requested city not found in the database
+2023-01-28T14:31:16.218Z [Process] info: Requested city exists in the DB
+2023-01-28T14:31:16.219Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:31:16.227Z [Process] info: Init process
+2023-01-28T14:31:16.227Z [Process] info: Requested city exists in the DB
+2023-01-28T14:31:16.228Z [Process] info: Get city weather information from the DB
+2023-01-28T14:31:16.228Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:31:16.235Z [Process] info: Get city weather information from the DB
+2023-01-28T14:31:16.236Z [Process] info: Get weather information from the database and return to user
+2023-01-28T14:31:16.236Z [Process] info: Success user request
+2023-01-28T14:31:16.600Z [Process] info: retruned data from weather API
+2023-01-28T14:31:16.611Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T14:31:16.611Z [Process] error: Request failed with status code 400
+2023-01-28T14:34:20.450Z [Process] info: Server Running at 8000
+2023-01-28T14:34:20.544Z [Process] info: Init process
+2023-01-28T14:34:20.544Z [Process] info: Requested city exists in the DB
+2023-01-28T14:34:20.549Z [Process] info: Get city weather information from the DB
+2023-01-28T14:34:20.550Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:34:21.229Z [Process] info: retruned data from weather API
+2023-01-28T14:34:21.328Z [Process] info: Init process
+2023-01-28T14:34:21.329Z [Process] info: Requested city not found in the database
+2023-01-28T14:34:21.329Z [Process] info: Requested city exists in the DB
+2023-01-28T14:34:21.336Z [Process] info: Get city weather information from the DB
+2023-01-28T14:34:21.337Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:34:21.476Z [Process] info: city name not found in the query params
+2023-01-28T14:34:21.488Z [Process] info: Init process
+2023-01-28T14:34:21.489Z [Process] info: Requested city not found in the database
+2023-01-28T14:34:21.489Z [Process] info: Requested city exists in the DB
+2023-01-28T14:34:21.490Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:34:21.498Z [Process] info: Get city weather information from the DB
+2023-01-28T14:34:21.498Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:34:21.502Z [Process] info: Init process
+2023-01-28T14:34:21.502Z [Process] info: Requested city exists in the DB
+2023-01-28T14:34:21.505Z [Process] info: Get city weather information from the DB
+2023-01-28T14:34:21.505Z [Process] info: Get weather information from the database and return to user
+2023-01-28T14:34:21.505Z [Process] info: Success user request
+2023-01-28T14:34:21.698Z [Process] info: retruned data from weather API
+2023-01-28T14:34:21.894Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T14:34:21.894Z [Process] error: Request failed with status code 400
+2023-01-28T14:34:30.256Z [Process] info: Server Running at 8000
+2023-01-28T14:34:30.349Z [Process] info: Init process
+2023-01-28T14:34:30.349Z [Process] info: Requested city exists in the DB
+2023-01-28T14:34:30.353Z [Process] info: Get city weather information from the DB
+2023-01-28T14:34:30.353Z [Process] info: Get weather information from the database and return to user
+2023-01-28T14:34:30.361Z [Process] info: Init process
+2023-01-28T14:34:30.362Z [Process] info: Requested city not found in the database
+2023-01-28T14:34:30.362Z [Process] info: Requested city exists in the DB
+2023-01-28T14:34:30.368Z [Process] info: Get city weather information from the DB
+2023-01-28T14:34:30.368Z [Process] info: Get weather information from the database and return to user
+2023-01-28T14:34:30.521Z [Process] info: city name not found in the query params
+2023-01-28T14:34:30.537Z [Process] info: Init process
+2023-01-28T14:34:30.537Z [Process] info: Requested city not found in the database
+2023-01-28T14:34:30.538Z [Process] info: Requested city exists in the DB
+2023-01-28T14:34:30.539Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:34:30.545Z [Process] info: Get city weather information from the DB
+2023-01-28T14:34:30.545Z [Process] info: Get weather information from the database and return to user
+2023-01-28T14:34:30.546Z [Process] info: Init process
+2023-01-28T14:34:30.546Z [Process] info: Requested city exists in the DB
+2023-01-28T14:34:30.549Z [Process] info: Get city weather information from the DB
+2023-01-28T14:34:30.549Z [Process] info: Get weather information from the database and return to user
+2023-01-28T14:34:30.549Z [Process] info: Success user request
+2023-01-28T14:36:16.311Z [Process] info: Server Running at 8000
+2023-01-28T14:36:16.406Z [Process] info: Init process
+2023-01-28T14:36:16.406Z [Process] info: Requested city exists in the DB
+2023-01-28T14:36:16.411Z [Process] info: Get city weather information from the DB
+2023-01-28T14:36:16.411Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:36:17.055Z [Process] info: retruned data from weather API
+2023-01-28T14:36:17.164Z [Process] info: Init process
+2023-01-28T14:36:17.164Z [Process] info: Requested city not found in the database
+2023-01-28T14:36:17.164Z [Process] info: Requested city exists in the DB
+2023-01-28T14:36:17.171Z [Process] info: Get city weather information from the DB
+2023-01-28T14:36:17.172Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:36:17.529Z [Process] info: retruned data from weather API
+2023-01-28T14:36:17.762Z [Process] info: city name not found in the query params
+2023-01-28T14:36:17.775Z [Process] info: Init process
+2023-01-28T14:36:17.775Z [Process] info: Requested city not found in the database
+2023-01-28T14:36:17.776Z [Process] info: Requested city exists in the DB
+2023-01-28T14:36:17.776Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T14:36:17.783Z [Process] info: Init process
+2023-01-28T14:36:17.784Z [Process] info: Requested city exists in the DB
+2023-01-28T14:36:17.866Z [Process] info: Get city weather information from the DB
+2023-01-28T14:36:17.867Z [Process] info: Get weather information from the database and return to user
+2023-01-28T14:36:17.867Z [Process] info: Success user request
+2023-01-28T14:36:17.869Z [Process] info: Get city weather information from the DB
+2023-01-28T14:36:17.869Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T14:36:18.246Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T14:36:18.247Z [Process] error: Request failed with status code 400
+2023-01-28T15:01:00.625Z [Process] info: Server Running at 8000
+2023-01-28T15:01:00.716Z [Process] info: Init process
+2023-01-28T15:01:00.717Z [Process] info: Requested city exists in the DB
+2023-01-28T15:01:00.721Z [Process] info: Get city weather information from the DB
+2023-01-28T15:01:00.721Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T15:01:02.516Z [Process] info: retruned data from weather API
+2023-01-28T15:01:02.639Z [Process] info: Init process
+2023-01-28T15:01:02.639Z [Process] info: Requested city not found in the database
+2023-01-28T15:01:02.639Z [Process] info: Requested city exists in the DB
+2023-01-28T15:01:02.647Z [Process] info: Get city weather information from the DB
+2023-01-28T15:01:02.647Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T15:01:03.051Z [Process] info: city name not found in the query params
+2023-01-28T15:01:03.062Z [Process] info: Init process
+2023-01-28T15:01:03.063Z [Process] info: Requested city not found in the database
+2023-01-28T15:01:03.063Z [Process] info: Requested city exists in the DB
+2023-01-28T15:01:03.064Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T15:01:03.073Z [Process] info: Get city weather information from the DB
+2023-01-28T15:01:03.073Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T15:01:03.077Z [Process] info: Init process
+2023-01-28T15:01:03.078Z [Process] info: Requested city exists in the DB
+2023-01-28T15:01:03.080Z [Process] info: Get city weather information from the DB
+2023-01-28T15:01:03.081Z [Process] info: Get weather information from the database and return to user
+2023-01-28T15:01:03.081Z [Process] info: Success user request
+2023-01-28T15:01:03.208Z [Process] info: retruned data from weather API
+2023-01-28T15:01:03.459Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T15:01:03.459Z [Process] error: Request failed with status code 400
+2023-01-28T15:13:20.562Z [Process] info: Server Running at 8000
+2023-01-28T15:13:20.685Z [Process] info: Init process
+2023-01-28T15:13:20.686Z [Process] info: Requested city exists in the DB
+2023-01-28T15:13:20.690Z [Process] info: Get city weather information from the DB
+2023-01-28T15:13:20.690Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T15:13:21.331Z [Process] info: retruned data from weather API
+2023-01-28T15:13:21.433Z [Process] info: Init process
+2023-01-28T15:13:21.434Z [Process] info: Requested city not found in the database
+2023-01-28T15:13:21.434Z [Process] info: Requested city exists in the DB
+2023-01-28T15:13:21.441Z [Process] info: Get city weather information from the DB
+2023-01-28T15:13:21.441Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T15:13:21.711Z [Process] info: city name not found in the query params
+2023-01-28T15:13:21.723Z [Process] info: Init process
+2023-01-28T15:13:21.723Z [Process] info: Requested city not found in the database
+2023-01-28T15:13:21.723Z [Process] info: Requested city exists in the DB
+2023-01-28T15:13:21.724Z [Process] error: Request ErrorCity doesn't exist in the database
+2023-01-28T15:13:21.730Z [Process] info: Get city weather information from the DB
+2023-01-28T15:13:21.730Z [Process] info: Get weather information from the API and update in the database
+2023-01-28T15:13:21.734Z [Process] info: Init process
+2023-01-28T15:13:21.734Z [Process] info: Requested city exists in the DB
+2023-01-28T15:13:21.737Z [Process] info: Get city weather information from the DB
+2023-01-28T15:13:21.737Z [Process] info: Get weather information from the database and return to user
+2023-01-28T15:13:21.737Z [Process] info: Success user request
+2023-01-28T15:13:21.844Z [Process] info: retruned data from weather API
+2023-01-28T15:13:22.129Z [Process] error: Error in weather API:AxiosError: Request failed with status code 400
+2023-01-28T15:13:22.129Z [Process] error: Request failed with status code 400
