@@ -20,6 +20,7 @@ Install Assigment-1 with npm
 - Create new mysqldb
 - Import weatherApp.sql
 - Update .env file in the project
+- run below commands
 
 ```bash
   cd path-project
